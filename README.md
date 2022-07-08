@@ -3,7 +3,7 @@
 Hai, ini merupakan catatan dan konfigurasi untuk macOS.
 
 ### Python
-- [Python di Sublime Text](../macOS-setup/sublime-text/README.md)
+- [Python di Sublime Text](/sublime-text/README.md)
 
 ### Git
 - [Git, Panduan Ringkas](https://rogerdudler.github.io/git-guide/index.id.html)
